@@ -18,7 +18,7 @@ using Word = Microsoft.Office.Interop.Word;
 namespace ToolSelector2.Service
 {
 	/// <summary>
-	/// Description of ReadFromWord.
+	/// Description of ReadFromWord.  ссссс
 	/// </summary>
 	internal class ReadFromWord
 	{
