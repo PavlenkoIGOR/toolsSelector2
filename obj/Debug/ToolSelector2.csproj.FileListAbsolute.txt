@@ -1,0 +1,17 @@
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\obj\Debug\ToolSelector2.csprojResolveAssemblyReference.cache
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\obj\Debug\ToolSelector2.MainForm.resources
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\obj\Debug\ToolSelector2.csproj.GenerateResource.Cache
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\bin\Debug\ToolSelector2.exe.config
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\bin\Debug\ToolSelector2.exe
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\bin\Debug\ToolSelector2.pdb
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\obj\Debug\ToolSelector2.exe
+D:\Screens\C#\SCDEV\ToolsSelector2\ToolSelector2\obj\Debug\ToolSelector2.pdb
+D:\VSProjects\с github\toolSelector2\bin\Debug\ToolSelector2.exe.config
+D:\VSProjects\с github\toolSelector2\bin\Debug\ToolSelector2.exe
+D:\VSProjects\с github\toolSelector2\bin\Debug\ToolSelector2.pdb
+D:\VSProjects\с github\toolSelector2\obj\Debug\ToolSelector2.csproj.AssemblyReference.cache
+D:\VSProjects\с github\toolSelector2\obj\Debug\ToolSelector2.MainForm.resources
+D:\VSProjects\с github\toolSelector2\obj\Debug\ToolSelector2.csproj.GenerateResource.cache
+D:\VSProjects\с github\toolSelector2\obj\Debug\ToolSelector2.csproj.CoreCompileInputs.cache
+D:\VSProjects\с github\toolSelector2\obj\Debug\ToolSelector2.exe
+D:\VSProjects\с github\toolSelector2\obj\Debug\ToolSelector2.pdb
